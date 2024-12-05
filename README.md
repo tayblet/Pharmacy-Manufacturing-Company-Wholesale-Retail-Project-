@@ -1,5 +1,16 @@
 # Pharmacy-Manufacturing-Company-Wholesale-Retail-Project-
-
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Project Objective](#project-objective)
+3. [Tools Used](#tools-used)
+4. [Data Cleaning](#data-cleaning)
+5. [Advanced Analysis](#advanced-analysis)
+6. [Power BI](#power-bi)
+7. [Business Questions](#business-questions)
+8. [Dashboard](#dashboard)
+9. [Conclusions](#conclusions)
+10. [Key Recommendations](#key-recommendations)
+    
 # Introduction
 This portfolio project involves an in-depth examination of a comprehensive dataset from a pharmacy manufacturing company's wholesale and retail operations. The dataset encompasses multiple facets of the sales process, providing a rich source of information for insightful analysis. Below is a brief overview of the key fields included in the dataset:
 1. **Distributor**: Identifies the wholesalers distributing the products.
