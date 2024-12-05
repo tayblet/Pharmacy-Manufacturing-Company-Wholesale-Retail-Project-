@@ -87,6 +87,13 @@ Used to create the visualization of the analysis to gain more insight into the b
 These business questions are designed to provide comprehensive insights into the company's sales performance, enabling data-driven decision-making and strategic planning to optimize operations and enhance profitability.
 
 ## Dashboard
+![Pharmacy Visualization](https://github.com/tayblet/Pharmacy-Manufacturing-Company-Wholesale-Retail-Project-/blob/73031b38a615b9c4b6485e7009e094fddda715cb/Pharmacy%20viz1.PNG)
+
+![Pharmacy Visualization 2](https://github.com/tayblet/Pharmacy-Manufacturing-Company-Wholesale-Retail-Project-/blob/73031b38a615b9c4b6485e7009e094fddda715cb/Pharmacy%20viz2.PNG)
+
+
+
+
 
 ## Conclusions
 The SQL analysis and the dashboard provides extensive insights into sales trends, geographic performance, and the correlation between drug classes and sales. It highlights the top-performing products, sales channels, representatives, and managers, offering a comprehensive overview that informs strategic decisions and optimizes business operations. Further detailed analysis could enhance the understanding of sub-channels and specific product quantities, leading to more refined business strategies.
