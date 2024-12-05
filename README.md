@@ -1,34 +1,40 @@
 # Pharmacy-Manufacturing-Company-Wholesale-Retail-Project-
 # Table of Contents
 1. [Introduction](#introduction)
-2. [Project Objective](#project-objective)
-3. [Tools Used](#tools-used)
-4. [Data Cleaning](#data-cleaning)
-5. [Advanced Analysis](#advanced-analysis)
-6. [Power BI](#power-bi)
-7. [Business Questions](#business-questions)
-8. [Dashboard](#dashboard)
-9. [Conclusions](#conclusions)
-10. [Key Recommendations](#key-recommendations)
+2. [Landing Page](#landing-page)
+3. [Project Objective](#project-objective)
+4. [Tools Used](#tools-used)
+5. [Data Cleaning](#data-cleaning)
+6. [Advanced Analysis](#advanced-analysis)
+7. [Power BI](#power-bi)
+8. [Business Questions](#business-questions)
+9. [Dashboard](#dashboard)
+10. [Conclusions](#conclusions)
+11. [Key Recommendations](#key-recommendations)
     
 # Introduction
-This portfolio project involves an in-depth examination of a comprehensive dataset from a pharmacy manufacturing company's wholesale and retail operations. The dataset encompasses multiple facets of the sales process, providing a rich source of information for insightful analysis. Below is a brief overview of the key fields included in the dataset:
-1. **Distributor**: Identifies the wholesalers distributing the products.
-2. **Customer Name**: The name of the customers purchasing the products.
-3. **City**: The city where the customer is located.
-4. **Country**: The country of the customer.
-5. **Latitude and Longitude**: Geographical coordinates of the customer’s location.
-6. **Channel**: Classifies the buyer type (e.g., Hospital, Pharmacy).
-7. **Sub-channel**: Further details the sector of the buyer (e.g., Government, Private).
-8. **Product Name**: Specifies the name of the drug being sold.
-9. **Product Class**: Categorizes the drugs (e.g., Antibiotics, Antipyretics).
-10. **Quantity**: Indicates the quantity of the product purchased.
-11. **Price**: The price at which the product was sold.
-12. **Sales**: Total sales amount generated from the transaction.
-13. **Month and Year**: Indicates when the sale occurred.
-14. **Name of Sales Rep**: The sales representative who facilitated the sale.
-15. **Manager**: The manager overseeing the sales representative.
-16. **Sales Team**: The team to which the sales representative belongs.
+This portfolio project involves an in-depth examination of a comprehensive dataset from a pharmacy manufacturing company's wholesale and retail operations. The dataset encompasses multiple facets of the sales process, providing a rich source of information for insightful analysis. 
+
+## Landing Page
+
+| **Field**            | **Description**                                                               |
+|----------------------|-------------------------------------------------------------------------------|
+| **Distributor**      | Identifies the wholesalers distributing the products.                         |
+| **Customer Name**    | The name of the customers purchasing the products.                            |
+| **City**             | The city where the customer is located.                                       |
+| **Country**          | The country of the customer.                                                  |
+| **Latitude and Longitude** | Geographical coordinates of the customer’s location.                     |
+| **Channel**          | Classifies the buyer type (e.g., Hospital, Pharmacy).                         |
+| **Sub-channel**      | Further details the sector of the buyer (e.g., Government, Private).          |
+| **Product Name**     | Specifies the name of the drug being sold.                                    |
+| **Product Class**    | Categorizes the drugs (e.g., Antibiotics, Antipyretics).                      |
+| **Quantity**         | Indicates the quantity of the product purchased.                              |
+| **Price**            | The price at which the product was sold.                                      |
+| **Sales**            | Total sales amount generated from the transaction.                            |
+| **Month and Year**   | Indicates when the sale occurred.                                             |
+| **Name of Sales Rep**| The sales representative who facilitated the sale.                            |
+| **Manager**          | The manager overseeing the sales representative.                              |
+| **Sales Team**       | The team to which the sales representative belongs.                           |
 
 ## Project Objective
 The primary goals of this project are to answer the following key business questions:
